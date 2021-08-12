@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @iilotd
+- 👀 I’m interested in rpi, art, gardening and learning
+- 🌱 I’m currently learning py
+- 📫 How to reach me ...
